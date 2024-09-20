@@ -5,3 +5,5 @@
 - https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/
 
 - https://debezium.io/documentation/reference/2.4/connectors/mysql.html#enable-query-log-events
+
+- https://debezium.io/documentation/reference/2.4/install.html

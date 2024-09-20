@@ -12,7 +12,7 @@
 |---|---|
 |Mysql|5.7|
 |Kafka|3.4|
-|Debizium|2.4|
+|MySQL Connector Plugin|2.4|
 
 # Install Debezium
 
